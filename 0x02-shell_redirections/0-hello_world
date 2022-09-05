@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "Hello, World" > file_text.txt
+cat "Hello, World" > file_text.txt
